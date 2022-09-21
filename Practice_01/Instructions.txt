@@ -1,0 +1,17 @@
+Use the dataset provided in the csv file
+and perform the following operations on it.
+
+In the data_preprocessing_template section:
+- Importing the libraries
+- Importing the dataset
+- Splitting the dataset into the Training set and Test set
+
+In the data_preprocessing_tools section:
+-Importing the libraries
+-Importing the dataset
+-Taking care of missing data
+-Encoding categorical data
+-Encoding the Independent Variable
+-Encoding the Dependent Variable
+-Splitting the dataset into the Training set and Test set
+-Feature Scaling
